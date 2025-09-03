@@ -1,15 +1,24 @@
-# 📘 Atividades de Faculdade - JavaScript  
+# 🚀 Algoritmos e Programação - Node.js & JavaScript  
 
-Este repositório reúne atividades e exercícios desenvolvidos durante a faculdade na disciplina de **Algoritmos e Programação** com foco em **JavaScript**.  
+Repositório criado para armazenar atividades da faculdade relacionadas à disciplina **Algoritmos e Programação**, utilizando **JavaScript** e **Node.js**.  
 
-## 📂 Conteúdo  
-- Exercícios práticos de lógica de programação  
-- Manipulação de variáveis, funções e objetos  
-- Estruturas condicionais e de repetição  
-- Trabalhos e listas avaliativas  
+## 📌 Conteúdos Trabalhados  
+- Variáveis e tipos de dados  
+- Estruturas condicionais (`if`, `else`, `switch`)  
+- Estruturas de repetição (`for`, `while`, `forEach`)  
+- Funções e escopo  
+- Arrays e objetos  
+- Manipulação de arquivos com **Node.js**  
+- Modularização de código  
 
 ## 🎯 Objetivo  
-Organizar e documentar a evolução no aprendizado de **programação com JavaScript**, servindo como base de estudo e consulta futura.  
+Este repositório tem como objetivo documentar minha evolução no aprendizado de **programação**, reforçando lógica e boas práticas de desenvolvimento com **JavaScript** e **Node.js**.  
 
----
-💡 Repositório acadêmico, voltado para aprendizado contínuo e prática de programação.
+## ⚡ Tecnologias Utilizadas  
+- [Node.js](https://nodejs.org/)  
+- JavaScript  
+
+## 🚀 Como Executar  
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/USERNAME/NOME-DO-REPOSITORIO.git
